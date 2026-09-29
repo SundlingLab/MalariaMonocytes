@@ -2,7 +2,7 @@
 
 Maximilian Julius Lautenbach, Pengjun Xi, Linn Kleberg, Alan-Dine Courey-Ghaouzi, Maia Serene Gower, Carolina Sousa Silva, Felicia Chammas, Anna Färnert, Christopher Sundling 
 
-![](./docs/Lautenbachetal2026_graphicalabstract.jpeg)
+![](./docs/Lautenbachetal2026_graphicalabstract.jpg)
 
 ## Abstract
 
