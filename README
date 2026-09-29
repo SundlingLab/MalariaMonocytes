@@ -1,0 +1,73 @@
+# [Previous malaria exposure attenuates monocyte-driven inflammation and correlates with modulation of the B cell response](https://doi.org/10.1172/jci)
+
+Maximilian Julius Lautenbach, Pengjun Xi, Linn Kleberg, Alan-Dine Courey-Ghaouzi, Maia Serene Gower, Carolina Sousa Silva, Felicia Chammas, Anna Färnert, Christopher Sundling 
+
+![](./docs/Lautenbachetal2026_graphicalabstract.jpeg)
+
+## Abstract
+
+Clinical immunity to malaria develops after repeated malaria episodes. In this process, the 
+inflammatory response is modulated to respond less vigorously upon reinfection. Monocytes are a 
+major source of proinflammatory mediators during blood-stage infection and are known to adapt 
+to repeated pathogen exposure. Here, we investigated the effect of previous malaria exposure on 
+monocytes during blood-stage malaria by comparing the response in previously exposed and primary 
+infected individuals. We observed reduced levels of several proinflammatory chemokines in previously 
+exposed individuals, linked to changes in monocytes. Similarly, BAFF levels were lower in these 
+individuals and associated with modulation of monocyte and dendritic cells. This affected the BAFF/
+BAFF-R axis, crucial for B cell responses, 
+correlating with increasing parasite-specific antibody levels. Collectively, we present insights into how 
+previous malaria exposure shapes monocyte responses during acute malaria and how these, in turn, 
+correlate with modulation of the B cell compartment and humoral immune response
+
+The original publication can be accessed here: []()
+
+## Table of contents
+
+-   [General info about this repository](#general-info-about-this-repository)
+-   [Dependencies](#dependencies)
+-   [Analysis scripts](#analysis-scripts)
+-   [Data availability statement](#data-availability-statement)
+-   [Contact information](#contact-information)
+
+## General info about this repository
+
+This repository contains r code, related to the data analysis and
+visualization described in the study.
+
+
+## Dependencies
+
+Project is created with:
+
+-   R version 4.3.2 (2023-10-31)
+-   Platform: aarch64-apple-darwin20 (64-bit)
+-   Running under: macOS Sonoma 14.7.4
+-   for more details, please see the Github repo for [Lautenbach et al. Immunity 2025](https://github.com/SundlingLab/Explore1536_Malaria) and the `renv.lock` file there
+
+## Analysis scripts 
+
+All downstream data analysis, visualization of scRNA seq and plasma protein data can be found under as a [rendered html report](https://sundlinglab.github.io/MalariaMonocytes/docs/X.html), and the quarto file can be found [here](https://github.com/SundlingLab/MalariaMonocytes/blob/main/src/X.qmd).
+
+## Data availability statement 
+
+Due to patient consent and confidentiality agreements, the data sets can
+be made available for validation or re-usage by contacting the lead
+contact. Data access will be evaluated according to the data access plan
+and Swedish legislation. Source data are provided in this paper. For the
+individual exploration of the proteomic data, we created a Shiny app for [Systems analysis of clinical malaria reveals proteomic perturbation and innate-adaptive crosstalk linked to disease severity - Lautenbach et al. Immunity 2025](https://doi.org/10.1016/j.immuni.2025.06.014),
+sourcing pre-computed aggregated data that can be browsed online at
+[malaria-proteomics-resource.serve.scilifelab.se](https://malaria-proteomics-resource.serve.scilifelab.se/app/malaria-proteomics-resource).
+
+Moreover, the measured proteins are also visualized on the individual protein summary pages of
+the [Human Disease Blood Atlas](https://www.proteinatlas.org/humanproteome/blood), an initiative to characterize blood
+protein profiles across a multitude of diseases Human Disease Blood Atlas.
+
+Request for data access can be made to Professor Anna Färnert, Karolinska
+Institutet, (for contact details, see the original study).
+
+
+## Contact information
+
+For questions or inquiries, please contact:
+
+Associate Professor Christopher Sundling
