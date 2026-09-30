@@ -1,4 +1,6 @@
-# [Previous malaria exposure attenuates monocyte-driven inflammation and correlates with modulation of the B cell response](https://doi.org/10.1172/jci)
+# [Previous malaria exposure attenuates monocyte-driven inflammation and correlates with modulation of the B cell response](https://doi.org/10.1172/jci.insight.199206)
+
+
 
 Maximilian Julius Lautenbach, Pengjun Xi, Linn Kleberg, Alan-Dine Courey-Ghaouzi, Maia Serene Gower, Carolina Sousa Silva, Felicia Chammas, Anna Färnert, Christopher Sundling 
 
@@ -19,7 +21,7 @@ correlating with increasing parasite-specific antibody levels. Collectively, we 
 previous malaria exposure shapes monocyte responses during acute malaria and how these, in turn, 
 correlate with modulation of the B cell compartment and humoral immune response
 
-The original publication can be accessed here: []()
+The original publication can be accessed here: [Lautenbach et al. 2026 JCI insight](https://doi.org/10.1172/jci.insight.199206)
 
 ## Table of contents
 
